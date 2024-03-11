@@ -1,2 +1,2 @@
 # react-todos
-react-todos-app
+This web used with todolist (API)
